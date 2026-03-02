@@ -1,0 +1,1 @@
+https://api.nal.usda.gov/fdc/v1/foods/search?api_key=1CY55XZxInvXvqwK3Vk5fC8xmkJryNI4TKtIkbdb&query=raw apple&dataType=Foundation&requireAllWords=true&pageSize=5
