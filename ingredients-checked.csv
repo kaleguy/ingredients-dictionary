@@ -1,0 +1,51 @@
+name,servingSize,calories,protein,carbs,fiber,fda_name,fda_calories,fda_protein,fda_carbs,fda_fiber,status
+Almonds,1 oz (28g),160,6,6,3.5,"Flour, almond",,7.3,4.5,2.6,MISMATCH
+Apple,1 medium (182g),95,,25,4,"Apples, fuji, with skin, raw",,,,,OK
+Avocado,1 whole (201g),320,4,17,13,"Avocado, Hass, peeled, raw",,,,,OK
+Bacon,2 slices (16g),90,6,,,,,,,,FETCH_ERROR
+Banana,1 medium (118g),105,,27,3,"Bananas, overripe, raw",100.3,0.9,23.7,2,MISMATCH
+Bell pepper,1 medium (119g),24,1,6,2,"Peppers, bell, green, raw",,0.9,5.7,1.1,MISMATCH
+"Black beans, cooked",1 cup (172g),227,15,41,15,"Beans, Dry, Black (0% moisture)",,42,,7.2,MISMATCH
+Blueberries,1 cup (148g),84,1,21,4,"Blueberries, raw",,,,,OK
+"Bread, white",1 slice (25g),75,2,14,0.6,,,,,,FETCH_ERROR
+"Bread, whole wheat",1 slice (28g),80,4,15,2,,,,,,FETCH_ERROR
+Broccoli,1 cup chopped (91g),31,3,6,2,,,,,,FETCH_ERROR
+Butter,1 tbsp (14g),100,,,,"Almond butter, creamy",,,,,OK
+Carrots,1 medium (61g),25,1,6,2,"Carrots, baby, raw",,0.5,5.5,1.6,MISMATCH
+Cheddar cheese,1 oz (28g),110,7,,,,,,,,FETCH_ERROR
+"Chicken breast, boneless skinless",3 oz (85g),140,26,,,"Chicken, breast, boneless, skinless, raw",,19.1,0,,MISMATCH
+"Chickpeas, cooked",1 cup (164g),269,15,45,12,"Chickpeas, (garbanzo beans, bengal gram), dry",,34.9,99,,MISMATCH
+"Corn, sweet",1 cup (145g),132,5,29,4,"Corn, sweet, yellow and white kernels,  fresh, raw",,4,21.3,3.5,MISMATCH
+Cucumber,1 cup sliced (104g),16,1,4,0.5,"Cucumber, with peel, raw",,0.7,3.1,,MISMATCH
+"Eggs, large",1 large (50g),70,6,,,,,,,,FETCH_ERROR
+"Flour, all-purpose",1 cup (125g),455,13,95,3,"Flour, wheat, all-purpose, enriched, bleached",,,,,OK
+Garlic,1 clove (3g),5,,1,,"Garlic, raw",4.3,0.2,0.8,0.1,MISMATCH
+"Greek yogurt, plain",1 cup (245g),130,17,8,,,,,,,FETCH_ERROR
+"Ground beef, 80% lean",3 oz (85g),230,22,,,"Beef, ground, 80% lean meat / 20% fat, raw",,14.9,0,,MISMATCH
+Honey,1 tbsp (21g),64,,17,,Honey,,,,,OK
+"Lentils, cooked",1 cup (198g),230,18,40,16,"Lentils, dry",,46.7,123.1,,MISMATCH
+"Lettuce, romaine",1 cup (47g),8,1,1.5,1,,,,,,FETCH_ERROR
+"Mackerel, chub, canned",3 oz (85g),130,20,,,"Tomato, puree, canned",,1.3,6.8,1.7,MISMATCH
+"Milk, 2%",1 cup (240ml),120,8,12,,,,,,,FETCH_ERROR
+"Milk, whole",1 cup (240ml),150,8,12,,,,,,,FETCH_ERROR
+"Oatmeal, dry",1/2 cup (40g),150,5,27,4,"Lentils, dry",,9.4,24.9,,MISMATCH
+Olive oil,1 tbsp (14ml),120,,,,"Oil, olive, extra light",,,,,OK
+Onion,1 medium (110g),44,1,10,2,"Onions, red, raw",48.4,1,10.9,2.4,MISMATCH
+Orange,1 medium (131g),62,1,15,3,,,,,,FETCH_ERROR
+"Pasta, cooked",1 cup (140g),220,8,43,2.5,,,,,,FETCH_ERROR
+Peanut butter,2 tbsp (32g),190,8,7,2,"Peanut butter, creamy",,,,,OK
+"Potato, white",1 medium (150g),160,4,37,4,"Flour, potato",,12.2,119.9,8.1,MISMATCH
+"Quinoa, cooked",1 cup (185g),222,8,39,5,"Flour, quinoa",,22.1,128.6,11.6,MISMATCH
+"Rice, brown, cooked",1 cup (195g),215,5,45,3.5,"Flour, rice, brown",712.2,14,147.2,,MISMATCH
+"Rice, white, cooked",1 cup (158g),205,4,45,0.6,"Flour, rice, white, unenriched",567.2,11,126.1,0.8,MISMATCH
+"Salmon, Atlantic",3 oz (85g),175,19,,,"Fish, salmon, Atlantic, farm raised, raw",,,,,OK
+Shrimp,3 oz (85g),84,18,,,"Crustaceans, shrimp, farm raised, raw",,13.2,0.4,,MISMATCH
+"Spinach, raw",1 cup (30g),7,1,1,0.7,"Spinach, baby",,0.9,0.7,0.5,MISMATCH
+Strawberries,1 cup (144g),49,1,12,3,"Strawberries, raw",,,,,OK
+"Sugar, granulated",1 tsp (4g),16,,4,,"Sugars, granulated",,,,,OK
+Sweet potato,1 medium (114g),103,2,24,4,"Sweet potatoes, orange flesh, without skin, raw",,1.8,19.8,,MISMATCH
+"Tofu, firm",1/2 cup (126g),94,10,2,1,HOUSE FOODS Premium Firm Tofu,107.1,13.8,1.2,1.1,MISMATCH
+Tomato,1 medium (123g),22,1,5,1.5,"Tomato, roma",,0.9,4.7,1.2,MISMATCH
+"Tuna, canned in water",3 oz (85g),100,22,,,,,,,,FETCH_ERROR
+"Turkey breast, deli",2 oz (56g),60,12,2,,"Chicken, breast, boneless, skinless, raw",,12.6,0,,MISMATCH
+Walnuts,1 oz (28g),185,4,4,2,"Nuts, walnuts, English, halves, raw",,4.1,3.1,1.5,MISMATCH
